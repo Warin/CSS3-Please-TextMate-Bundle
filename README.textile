@@ -22,3 +22,8 @@ h3. TODO
 
 
 original bundle by filipepina, added css transformations
+=======
+
+
+h3. TODO
+* add direction options to background-gradient
