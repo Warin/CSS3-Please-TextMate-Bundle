@@ -10,9 +10,9 @@
         <string>transform</string>
         <key>content</key>
         <string>-moz-transform:skew(${1:-10deg}${2: ,optionalY});
--o-transform:skew($1);
--webkit-transform:skew($1);
-transform:skew($1);</string>
+-o-transform:skew($1$2);
+-webkit-transform:skew($1$2);
+transform:skew($1$2);</string>
         <key>scope</key>
         <string>source.css</string>
     </dict>

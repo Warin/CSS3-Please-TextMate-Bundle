@@ -8,9 +8,9 @@
         <string>5A220B79-74F3-4FC4-B0EA-227235CAA322</string>
         <key>content</key>
         <string>-moz-transform:translate(${1:-10px}${2: ,optionalY});
--o-transform:translate($1);
--webkit-transform:translate($1);
-transform:translate($1);</string>
+-o-transform:translate($1$2);
+-webkit-transform:translate($1$2);
+transform:translate($1$2);</string>
         <key>scope</key>
         <string>source.css</string>
         <key>tabTrigger</key>

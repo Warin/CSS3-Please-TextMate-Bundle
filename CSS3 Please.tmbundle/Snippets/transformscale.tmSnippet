@@ -8,9 +8,9 @@
         <string>A34818C2-29BA-47FE-A4D6-645F7378BC1E</string>
         <key>content</key>
         <string>-moz-transform:scale(${1:2.1}${2: ,optionalY});
--o-transform:scale($1);
--webkit-transform:scale($1);
-transform:scale($1);</string>
+-o-transform:scale($1$2);
+-webkit-transform:scale($1$2);
+transform:scale($1$2);</string>
         <key>scope</key>
         <string>source.css</string>
         <key>tabTrigger</key>
