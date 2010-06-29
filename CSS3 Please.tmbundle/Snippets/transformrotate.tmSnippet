@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>transform:rotate</string>
+        <key>uuid</key>
+        <string>B190B31A-E350-47C9-90C4-EAF9D661667C</string>
+        <key>content</key>
+        <string>-moz-transform:rotate(${1:-10deg});
+-o-transform:rotate($1);
+-webkit-transform:rotate($1);
+transform:rotate($1);/*advanced rotations for MS using matrix*/</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>transform</string>
+    </dict>
+</plist>
